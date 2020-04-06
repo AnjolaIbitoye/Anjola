@@ -1,0 +1,64 @@
+h2{
+  font-size: 34px;
+      line-height: 40px;
+      margin-top: 0px;
+        margin-bottom: 20px;
+        font-family: Mallory, sans-serif;
+        font-size: 47px;
+        line-height: 54px;
+        font-weight: 700;
+        letter-spacing: -1px;
+    }
+    .pic{
+      width: 50%;
+      padding-left: 25%;
+      bottom:200%;
+
+    }
+.box1{
+  margin-bottom: 60px;
+  display: block;
+      max-width: 700px;
+      margin-right: auto;
+      margin-bottom: 80px;
+      margin-left: auto;
+  text-align: center;
+  color: #20343b;
+  }
+  .kicker {
+      font-size: 20px;
+      line-height: 34px;
+    font-family: Mallory, sans-serif;
+    color: #20343b;
+ }
+ .body{
+text-align: center;
+font-family: Mallory, sans-serif;
+color: #20343b;
+font-weight: lighter;
+ }
+ .bullet{
+   font-family: Mallory, sans-serif;
+   color: #20343b;
+   text-align: center;
+}
+ .prayer{
+   text-align: center;
+   font-family: Mallory, sans-serif;
+   color: #20343b;
+   font-weight: lighter;
+ }
+.thanks{
+  text-align: center;
+  font-family: Mallory, sans-serif;
+  color: #20343b;
+  font-weight: lighter;
+}
+.word{
+  text-align: center;
+  font-family: Mallory, sans-serif;
+  color: #20343b;
+  font-weight: lighter;
+
+}
+}
